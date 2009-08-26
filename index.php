@@ -78,7 +78,7 @@ book name:<br>
 <input name="name" type="text" value="<?=rand(1000,9999)?>"/><br/>
 <span class="comment">Book name<br/> to access it by.</span>
 <br/><br/>
-<input type="submit" value="Расчленить"/>
+<input type="submit" value="Split it!"/>
 </form>
 </td></tr></table>
 </body></html>
