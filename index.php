@@ -1,4 +1,7 @@
 <?
+// Web book reader is a simple script that splits given file to small
+// portions of text to display on small-scrren mobile displays through web
+
 $q='';
 $d=$_SERVER['DOCUMENT_ROOT'].'/book/';
 if(isset($_POST['name']))
