@@ -1,6 +1,5 @@
+# Web Book Reader
 
-### Web Book Reader
+###It's a test project.
 
-Is a test project.
-
-It splits given files to small specified pieces of text small enoght to display on mobile devices.
+Splits given files to small pieces of text, enought to display on mobile devices.
